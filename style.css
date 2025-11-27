@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+header, footer {
+  background: #eee;
+  padding: 10px;
+}
+
+img, iframe {
+  display: block;
+  margin-top: 10px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+/* class */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
